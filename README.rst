@@ -1301,3 +1301,8 @@ Graph Representation Learning Systems
 
 Datasets
 ========
+
+`AYNEC: All You Need for Evaluating Completion Techniques in Knowledge Graphs
+<https://link.springer.com/chapter/10.1007/978-3-030-21348-0_26>`_
+    | :author:`Daniel Ayala, Agustín Borrego, Inma Hernández, Carlos R. Rivero, David Ruiz`
+    | :venue:`ESWC 2019`
